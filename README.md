@@ -9,10 +9,9 @@ Kapish Malik	  kapish15026@iiitd.ac.in
 
 
 Package Dependencies
-BotKit
-Cloudant
-watson developer cloud
-request
+BotKit, Cloudant, watson-developer-cloud, request
+
+Code deployed on heroku server.
 
 
 
